@@ -1090,7 +1090,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="90" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0" />
+        <state line="28" column="90" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_form.html.erb">
@@ -1165,7 +1167,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130509181016_users_have_and_belong_to_many_roles.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="101" selection-start="228" selection-end="228" vertical-scroll-proportion="0.3504673" />
+        <state line="10" column="101" selection-start="228" selection-end="228" vertical-scroll-proportion="0.3504673">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/role.rb">
